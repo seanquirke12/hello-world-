@@ -1,5 +1,4 @@
 # hello-world-
-into the deep
 Hi all! 
 
 The reason for this change is to get a little practice in using Github (following the initial starter guide) and to offer a little introduction to who I am
